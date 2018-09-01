@@ -1,0 +1,9 @@
+--from alpine
+--apk
+curl
+git
+openssh-client
+py3-pip
+python3
+python
+py-pip
